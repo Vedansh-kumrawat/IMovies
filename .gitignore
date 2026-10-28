@@ -6,3 +6,7 @@ dist/
 .tmdb_skipped
 .tmdb_imported
 .movies_imported
+.env.*
+!.env.example
+client/node_modules/
+server/node_modules/
